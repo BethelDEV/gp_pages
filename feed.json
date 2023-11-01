@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GC_Park",
+    "description": "",
+    "home_page_url": "https://betheldev.github.io/gp_pages",
+    "feed_url": "https://betheldev.github.io/gp_pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cook"
+    },
+    "items": [
+        {
+            "id": "https://betheldev.github.io/gp_pages/android-ying-yongxiao-you-xixiao-gong-ju.html",
+            "url": "https://betheldev.github.io/gp_pages/android-ying-yongxiao-you-xixiao-gong-ju.html",
+            "title": "Android 应用，小游戏、小工具",
+            "summary": "小游戏 ｜ 休闲、益智 开心打地鼠 打地鼠是一个趣味性十足的休闲小游戏。训练人的反应能力，全神贯注，手眼并用，锻炼眼力、智力、动手能力。不仅要求速度快，而且要准。 Google Play",
+            "content_html": "<h2 id=\"小游戏-｜-休闲、益智\">小游戏 ｜ 休闲、益智</h2>\n<h3 id=\"开心打地鼠\">开心打地鼠</h3>\n<p>打地鼠是一个趣味性十足的休闲小游戏。训练人的反应能力，全神贯注，手眼并用，锻炼眼力、智力、动手能力。不仅要求速度快，而且要准。</p>\n<h4 id=\"应用下载\">应用下载</h4>\n<p><a href=\"https://play.google.com/store/apps/details?id=funs.tap.gopher\">Google Play</a></p>\n",
+            "author": {
+                "name": "Cook"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-01T13:40:40+08:00",
+            "date_modified": "2023-11-01T14:02:06+08:00"
+        }
+    ]
+}

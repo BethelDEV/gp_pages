@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://betheldev.github.io/gp_pages/sitemap.xml
