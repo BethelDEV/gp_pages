@@ -3,12 +3,42 @@
     <title>GC_Park</title>
     <link href="https://betheldev.github.io/gp_pages/feed.xml" rel="self" />
     <link href="https://betheldev.github.io/gp_pages" />
-    <updated>2023-11-01T14:02:06+08:00</updated>
+    <updated>2023-11-01T15:43:31+08:00</updated>
     <author>
         <name>Cook</name>
     </author>
     <id>https://betheldev.github.io/gp_pages</id>
 
+    <entry>
+        <title>和</title>
+        <author>
+            <name>Cook</name>
+        </author>
+        <link href="https://betheldev.github.io/gp_pages/he.html"/>
+        <id>https://betheldev.github.io/gp_pages/he.html</id>
+
+        <updated>2023-11-01T15:43:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <h1 id="mcetoc_1he4riesjk">经济<span style="text-decoration: line-through;"><span style="color: #f1c40f; text-decoration: line-through;">上线</span></span></h1>
+<hr>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="mcetoc_1he4riesjk">经济<span style="text-decoration: line-through;"><span style="color: #f1c40f; text-decoration: line-through;">上线</span></span></h1>
+<hr><hr>
+<p> </p>
+<p class="msg msg--warning"><span style="color: #f1c40f;">就是就是看看是</span></p>
+<div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1he4riesjk">经济上线</a></li>
+</ul>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Android 应用，小游戏、小工具</title>
         <author>
